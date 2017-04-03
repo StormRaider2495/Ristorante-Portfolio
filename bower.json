@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "StormRaider2495 <arunit95@gmail.com>"
+  ],
+  "description": "simple portfolio",
+  "main": "index.html",
+  "keywords": [
+    "portfolio"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
